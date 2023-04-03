@@ -1,8 +1,5 @@
 #!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
+# QBA LIU 2023 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 # można dodać jeszcze pętlę while i iterować aż | 0 - fun(root estimation) | < threshold
 
